@@ -1,0 +1,5 @@
+hug
+pug
+pun
+bun
+hugs
