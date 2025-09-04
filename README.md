@@ -10,5 +10,5 @@
 
 ---
 
-Alan Badillo Salas
+Alan Badillo Salas (badillosalas@outlook.com)
 
