@@ -1,0 +1,20 @@
+[
+    ["gusto", "placer", "plaisir", "plaisir", "Il donne du plaisir", "nom", "Me da gusto verte.", "Je suis heureux de te voir."],
+    ["conocerte", "saber quién eres", "te connaître", "savoir qui tu es", "Je suis content de te connaître", "verbe", "Es un placer conocerte.", "C'est un plaisir de te connaître."],
+    ["espero", "tener esperanza", "j'espère", "avoir espoir", "J'attends avec espoir", "verbe", "Espero verte pronto.", "J'espère te voir bientôt."],
+    ["platicado", "conversado", "discuté", "conversé", "Nous avons discuté de cela", "verbe", "Hemos platicado mucho.", "Nous avons beaucoup discuté."],
+    ["verdadero", "real", "vrai", "réel", "Il est réel", "adjectif", "Es un verdadero amigo.", "C'est un vrai ami."],
+    ["viajaré", "voy a viajar", "je voyagerai", "je vais voyager", "J'irai en voyage", "verbe", "Viajaré a Francia.", "Je voyagerai en France."],
+    ["verte", "ver a ti", "te voir", "voir toi", "Je suis heureux de te voir", "verbe", "Quiero verte mañana.", "Je veux te voir demain."],
+    ["transferiré", "traspasar", "je transférerai", "je vais transférer", "Je ferai un transfert", "verbe", "Transferiré el dinero hoy.", "Je transférerai l'argent aujourd'hui."],
+    ["cantidad", "monto", "quantité", "montant", "C'est le montant", "nom", "La cantidad es correcta.", "La quantité est correcte."],
+    ["pediste", "solicitaste", "tu as demandé", "tu as sollicité", "Tu as fait une demande", "verbe", "Lo que pediste está listo.", "Ce que tu as demandé est prêt."],
+    ["correo", "correo electrónico", "courriel", "e-mail", "Envoyer un courriel", "nom", "Te envío un correo.", "Je t'envoie un courriel."],
+    ["recojas", "levantes", "que tu ramasses", "que tu lèves", "Assure-toi de le ramasser", "verbe", "Recojas tus cosas.", "Assure-toi de ramasser tes affaires."],
+    ["aeropuerto", "terminal aérea", "aéroport", "terminal aérienne", "Il est grand aéroport", "nom", "Nos vemos en el aeropuerto.", "On se voit à l'aéroport."],
+    ["vemos", "encontramos", "nous voyons", "nous trouvons", "On se voit", "verbe", "Nos vemos mañana.", "On se voit demain."],
+    ["pronto", "en poco tiempo", "bientôt", "avant peu", "C'est bientôt", "adverbe", "Te veré pronto.", "Je te verrai bientôt."],
+    ["querida", "amado", "chère", "aimée", "Elle est chère", "adjectif", "Mi querida amiga.", "Ma chère amie."],
+    ["amante", "persona que ama", "amant", "personne qui aime", "Il est un amant", "nom", "Ella tiene un amante.", "Elle a un amant."],
+    ["francesa", "de Francia", "française", "de France", "Elle est française", "adj", "Ella es francesa.", "Elle est française."]
+]

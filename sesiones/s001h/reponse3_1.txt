@@ -1,0 +1,130 @@
+{
+    "palabras": [
+        {
+            "palabra_nativo": "gusto",
+            "significado_nativo": "placer",
+            "palabra_objetivo": "goût",
+            "significado_objetivo": "plaisir",
+            "descripción_objetivo": "sustantivo",
+            "ejemplo_nativo": "Es un gusto conocerte.",
+            "ejemplo_objetivo": "C'est un plaisir de te rencontrer."
+        },
+        {
+            "palabra_nativo": "conocerte",
+            "significado_nativo": "saber de alguien",
+            "palabra_objetivo": "te rencontrer",
+            "significado_objetivo": "faire connaissance",
+            "descripción_objetivo": "verbo",
+            "ejemplo_nativo": "Me alegra poder conocerte.",
+            "ejemplo_objetivo": "Je suis heureux de pouvoir te rencontrer."
+        },
+        {
+            "palabra_nativo": "platicado",
+            "significado_nativo": "conversado",
+            "palabra_objetivo": "discuté",
+            "significado_objetivo": "parlé",
+            "descripción_objetivo": "verbo",
+            "ejemplo_nativo": "Hemos platicado mucho hoy.",
+            "ejemplo_objetivo": "Nous avons beaucoup discuté aujourd'hui."
+        },
+        {
+            "palabra_nativo": "verdadero",
+            "significado_nativo": "real",
+            "palabra_objetivo": "vrai",
+            "significado_objetivo": "réel",
+            "descripción_objetivo": "adjetivo",
+            "ejemplo_nativo": "Este es un verdadero problema.",
+            "ejemplo_objetivo": "C'est un vrai problème."
+        },
+        {
+            "palabra_nativo": "viajaré",
+            "significado_nativo": "iré de viaje",
+            "palabra_objetivo": "je voyagerai",
+            "significado_objetivo": "j'irai en voyage",
+            "descripción_objetivo": "verbo",
+            "ejemplo_nativo": "Viajaré a Francia el próximo mes.",
+            "ejemplo_objetivo": "Je voyagerai en France le mois prochain."
+        },
+        {
+            "palabra_nativo": "transferiré",
+            "significado_nativo": "pasaré",
+            "palabra_objetivo": "je transférerai",
+            "significado_objetivo": "je passerai",
+            "descripción_objetivo": "verbo",
+            "ejemplo_nativo": "Transferiré los fondos mañana.",
+            "ejemplo_objetivo": "Je transférerai les fonds demain."
+        },
+        {
+            "palabra_nativo": "cantidad",
+            "significado_nativo": "número",
+            "palabra_objetivo": "quantité",
+            "significado_objetivo": "nombre",
+            "descripción_objetivo": "sustantivo",
+            "ejemplo_nativo": "La cantidad de personas es grande.",
+            "ejemplo_objetivo": "La quantité de personnes est grande."
+        },
+        {
+            "palabra_nativo": "pediste",
+            "significado_nativo": "solicitaste",
+            "palabra_objetivo": "tu as demandé",
+            "significado_objetivo": "tu as sollicité",
+            "descripción_objetivo": "verbo",
+            "ejemplo_nativo": "Pediste ayuda ayer.",
+            "ejemplo_objetivo": "Tu as demandé de l'aide hier."
+        },
+        {
+            "palabra_nativo": "correo",
+            "significado_nativo": "mensaje",
+            "palabra_objetivo": "courrier",
+            "significado_objetivo": "message",
+            "descripción_objetivo": "sustantivo",
+            "ejemplo_nativo": "Revisé mi correo hoy.",
+            "ejemplo_objetivo": "J'ai vérifié mon courrier aujourd'hui."
+        },
+        {
+            "palabra_nativo": "recojas",
+            "significado_nativo": "levantes",
+            "palabra_objetivo": "que tu ramasses",
+            "significado_objetivo": "que tu lèves",
+            "descripción_objetivo": "verbo",
+            "ejemplo_nativo": "Espero que recojas el paquete.",
+            "ejemplo_objetivo": "J'espère que tu ramasses le colis."
+        },
+        {
+            "palabra_nativo": "aeropuerto",
+            "significado_nativo": "terminal",
+            "palabra_objetivo": "aéroport",
+            "significado_objetivo": "terminal",
+            "descripción_objetivo": "sustantivo",
+            "ejemplo_nativo": "Llegó al aeropuerto a tiempo.",
+            "ejemplo_objetivo": "Il est arrivé à l'aéroport à l'heure."
+        },
+        {
+            "palabra_nativo": "querida",
+            "significado_nativo": "amada",
+            "palabra_objetivo": "chère",
+            "significado_objetivo": "aimée",
+            "descripción_objetivo": "adjetivo",
+            "ejemplo_nativo": "Mi querida amiga me llamó.",
+            "ejemplo_objetivo": "Ma chère amie m'a appelé."
+        },
+        {
+            "palabra_nativo": "amante",
+            "significado_nativo": "enamorado",
+            "palabra_objetivo": "amant",
+            "significado_objetivo": "aimant",
+            "descripción_objetivo": "sustantivo",
+            "ejemplo_nativo": "Ella es una amante de la música.",
+            "ejemplo_objetivo": "Elle est une amante de la musique."
+        },
+        {
+            "palabra_nativo": "francesa",
+            "significado_nativo": "de Francia",
+            "palabra_objetivo": "française",
+            "significado_objetivo": "de France",
+            "descripción_objetivo": "adjetivo",
+            "ejemplo_nativo": "La gastronomía francesa es famosa.",
+            "ejemplo_objetivo": "La gastronomie française est connue."
+        }
+    ]
+}

@@ -1,0 +1,7 @@
+[
+    "Die Person äußert ihre Freude, jemanden kennenzulernen.",
+    "Sie plant eine Reise, um die andere Person zu sehen.",
+    "Sie hat zugestimmt, Geld zu überweisen, damit sie vom Flughafen abgeholt wird.",
+    "Sie bezieht sich auf die andere Person als ihre französische Geliebte.",
+    "Die Kommunikation und die Vereinbarung erfolgten per Chat und E-Mail."
+]

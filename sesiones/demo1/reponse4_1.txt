@@ -1,0 +1,7 @@
+```
+### La Atención es Todo lo que Necesitas
+
+**Resumen**
+
+Los modelos dominantes de transducción de secuencias se basan en redes neuronales complejas **recurrentes** o <abbr title="redes neuronales convolucionales">convolucionales</abbr> que incluyen un codificador y un decodificador. Los modelos que mejor funcionan también conectan el codificador y el decodificador a través de un mecanismo de atención. Proponemos una nueva arquitectura de red simple, el **Transformer**, basada únicamente en mecanismos de atención, prescindiendo completamente de la recurrencia y las convoluciones. Experimentos en dos tareas de traducción automática muestran que estos modelos son superiores en calidad, además de ser más paralelizables y requerir significativamente menos tiempo de entrenamiento. Nuestro modelo alcanza 28.4 <abbr title="Bilingual Evaluation Understudy">BLEU</abbr> en la tarea de traducción del inglés al alemán de <abbr title="Workshop on Machine Translation">WMT</abbr> 2014, mejorando sobre los mejores resultados existentes, incluidos los conjuntos, en más de 2 BLEU. En la tarea de traducción del inglés al francés de WMT 2014, nuestro modelo establece un nuevo récord de puntuación BLEU para modelo único de 41.0 después de entrenar durante 3.5 días en ocho <abbr title="Unidad de procesamiento gráfico">GPUs</abbr>, una pequeña fracción de los costos de entrenamiento de los mejores modelos de la literatura.
+```

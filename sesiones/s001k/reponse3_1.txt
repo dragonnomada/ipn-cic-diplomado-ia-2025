@@ -1,0 +1,15 @@
+[
+    ["gusto", "placer, agrado", "plaisir", "sensation agréable", "nom", "sustantivo", "Es un gusto conocerte.", "C'est un plaisir de te rencontrer."],
+    ["conocerte", "llegar a saber de alguien", "te rencontrer", "apprendre à connaître quelqu'un", "verbe", "verbo", "Espero conocerte pronto.", "J'espère te rencontrer bientôt."],
+    ["platicado", "conversado", "parlé", "discuté", "verbe", "verbo", "Hemos platicado mucho hoy.", "Nous avons beaucoup parlé aujourd'hui."],
+    ["verdadero", "cierto, real", "vrai", "réel, authentique", "adjectif", "adjetivo", "Es un verdadero amigo.", "C'est un vrai ami."],
+    ["viajaré", "ir de un lugar a otro", "voyagerai", "aller d'un endroit à l'autre", "verbe", "verbo", "Viajaré a Francia en verano.", "Je voyagerai en France cet été."],
+    ["transferiré", "mover de un lugar a otro", "transférerai", "déplacer d'un endroit à un autre", "verbe", "verbo", "Transferiré el dinero mañana.", "Je transférerai l'argent demain."],
+    ["cantidad", "medida de algo", "quantité", "mesure de quelque chose", "nom", "sustantivo", "La cantidad de agua es suficiente.", "La quantité d'eau est suffisante."],
+    ["pediste", "solicitaste algo", "as demandé", "sollicité quelque chose", "verbe", "verbo", "¿Pediste la cena?", "As-tu demandé le dîner ?"],
+    ["correo", "mensajería", "courrier", "service postal", "nom", "sustantivo", "Recibí un correo hoy.", "J'ai reçu un courrier aujourd'hui."],
+    ["recojas", "levantes o juntes algo", "ramasses", "prendre ou collecter quelque chose", "verbe", "verbo", "Por favor, recojas tus cosas.", "S'il te plaît, ramasse tes affaires."],
+    ["aeropuerto", "terminal aérea", "aéroport", "terminal aérien", "nom", "sustantivo", "Llegué temprano al aeropuerto.", "Je suis arrivé tôt à l'aéroport."],
+    ["querida", "afectuosa", "chère", "affectueuse", "adjectif", "adjetivo", "Querida amiga, te extraño.", "Chère amie, tu me manques."],
+    ["amante", "persona que ama", "amoureux", "personne qui aime", "nom", "sustantivo", "Es un amante del arte.", "Il est un amoureux de l'art."]
+]

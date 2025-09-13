@@ -1,0 +1,5 @@
+[
+    [1, "spanish", "MX"],
+    [2, "spanish", "ES"],
+    [3, "spanish", "AR"]
+]

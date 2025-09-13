@@ -1,0 +1,7 @@
+[
+    "Le locuteur exprime sa satisfaction pour la communication précédente.",
+    "Il fait des plans pour voyager et se rencontrer en personne.",
+    "Il mentionne un transfert d'argent à récupérer à l'aéroport.",
+    "Il exprime son impatience pour la prochaine rencontre.",
+    "Il déclare son amour pour le destinataire, identifié comme une amante française."
+]

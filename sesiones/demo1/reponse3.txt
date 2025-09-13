@@ -1,0 +1,184 @@
+```json
+[
+    {
+        "english": "dominant",
+        "english_meaning": "having power and influence over others",
+        "spanish": "dominante",
+        "spanish_meaning": "que tiene poder e influencia sobre los demás",
+        "word_type": "adjetivo",
+        "example_english": "He had a dominant role in the project.",
+        "example_spanish": "Él tuvo un papel dominante en el proyecto."
+    },
+    {
+        "english": "transduction",
+        "english_meaning": "the process of converting something from one form to another",
+        "spanish": "transducción",
+        "spanish_meaning": "proceso de convertir algo de una forma a otra",
+        "word_type": "sustantivo",
+        "example_english": "Signal transduction is crucial in biology.",
+        "example_spanish": "La transducción de señales es crucial en biología."
+    },
+    {
+        "english": "recurrent",
+        "english_meaning": "occurring often or repeatedly",
+        "spanish": "recurrente",
+        "spanish_meaning": "que ocurre a menudo o repetidamente",
+        "word_type": "adjetivo",
+        "example_english": "She experienced recurrent headaches.",
+        "example_spanish": "Ella experimentó dolores de cabeza recurrentes."
+    },
+    {
+        "english": "convolutional",
+        "english_meaning": "pertaining to a mathematical operation on functions",
+        "spanish": "convolucional",
+        "spanish_meaning": "relativo a una operación matemática sobre funciones",
+        "word_type": "adjetivo",
+        "example_english": "Convolutional neural networks are used in image recognition.",
+        "example_spanish": "Las redes neuronales convolucionales se usan en el reconocimiento de imágenes."
+    },
+    {
+        "english": "encoder",
+        "english_meaning": "a device or program that transforms data into a coded format",
+        "spanish": "codificador",
+        "spanish_meaning": "dispositivo o programa que transforma datos en un formato codificado",
+        "word_type": "sustantivo",
+        "example_english": "The encoder converts text to machine-readable code.",
+        "example_spanish": "El codificador convierte el texto en un código legible por máquina."
+    },
+    {
+        "english": "decoder",
+        "english_meaning": "a device or program that interprets coded data",
+        "spanish": "decodificador",
+        "spanish_meaning": "dispositivo o programa que interpreta datos codificados",
+        "word_type": "sustantivo",
+        "example_english": "The decoder translates binary data into text.",
+        "example_spanish": "El decodificador traduce datos binarios en texto."
+    },
+    {
+        "english": "mechanism",
+        "english_meaning": "a system of parts working together in a machine",
+        "spanish": "mecanismo",
+        "spanish_meaning": "sistema de partes que trabajan juntas en una máquina",
+        "word_type": "sustantivo",
+        "example_english": "The locking mechanism is very secure.",
+        "example_spanish": "El mecanismo de bloqueo es muy seguro."
+    },
+    {
+        "english": "architecture",
+        "english_meaning": "the art and science of designing buildings",
+        "spanish": "arquitectura",
+        "spanish_meaning": "arte y ciencia de diseñar edificios",
+        "word_type": "sustantivo",
+        "example_english": "Modern architecture is often minimalist.",
+        "example_spanish": "La arquitectura moderna es a menudo minimalista."
+    },
+    {
+        "english": "Transformer",
+        "english_meaning": "a type of model used in natural language processing",
+        "spanish": "Transformador",
+        "spanish_meaning": "tipo de modelo usado en procesamiento de lenguaje natural",
+        "word_type": "sustantivo",
+        "example_english": "The Transformer model revolutionized NLP tasks.",
+        "example_spanish": "El modelo Transformador revolucionó las tareas de PLN."
+    },
+    {
+        "english": "dispensing",
+        "english_meaning": "distributing or providing",
+        "spanish": "dispensación",
+        "spanish_meaning": "distribución o provisión",
+        "word_type": "sustantivo",
+        "example_english": "The machine is capable of dispensing drinks.",
+        "example_spanish": "La máquina es capaz de dispensar bebidas."
+    },
+    {
+        "english": "recurrence",
+        "english_meaning": "the fact of occurring again",
+        "spanish": "recurrencia",
+        "spanish_meaning": "hecho de suceder nuevamente",
+        "word_type": "sustantivo",
+        "example_english": "There is a risk of cancer recurrence.",
+        "example_spanish": "Hay un riesgo de recurrencia del cáncer."
+    },
+    {
+        "english": "convolutions",
+        "english_meaning": "a coil or twist, used in a mathematical sense",
+        "spanish": "convoluciones",
+        "spanish_meaning": "una espiral o torcedura, usada en un sentido matemático",
+        "word_type": "sustantivo",
+        "example_english": "Convolutions are applied in many neural network layers.",
+        "example_spanish": "Las convoluciones se aplican en muchas capas de redes neuronales."
+    },
+    {
+        "english": "parallelizable",
+        "english_meaning": "capable of being executed simultaneously with other tasks",
+        "spanish": "paralelizable",
+        "spanish_meaning": "capaz de ser ejecutado simultáneamente con otras tareas",
+        "word_type": "adjetivo",
+        "example_english": "This algorithm is highly parallelizable.",
+        "example_spanish": "Este algoritmo es altamente paralelizable."
+    },
+    {
+        "english": "significantly",
+        "english_meaning": "in a way that is large or important enough to be noticed",
+        "spanish": "significativamente",
+        "spanish_meaning": "de una manera suficientemente grande o importante como para ser notada",
+        "word_type": "adverbio",
+        "example_english": "Their performance has improved significantly.",
+        "example_spanish": "Su rendimiento ha mejorado significativamente."
+    },
+    {
+        "english": "achieves",
+        "english_meaning": "successfully completes or attains",
+        "spanish": "logra",
+        "spanish_meaning": "completa o alcanza con éxito",
+        "word_type": "verbo",
+        "example_english": "She achieves her goals through hard work.",
+        "example_spanish": "Ella logra sus objetivos mediante el trabajo duro."
+    },
+    {
+        "english": "establishes",
+        "english_meaning": "sets up or founds",
+        "spanish": "establece",
+        "spanish_meaning": "configura o funda",
+        "word_type": "verbo",
+        "example_english": "He establishes a new company.",
+        "example_spanish": "Él establece una nueva empresa."
+    },
+    {
+        "english": "literature",
+        "english_meaning": "written works, especially those considered of superior or lasting artistic merit",
+        "spanish": "literatura",
+        "spanish_meaning": "obras escritas, especialmente las consideradas de mérito artístico superior o duradero",
+        "word_type": "sustantivo",
+        "example_english": "She studied English literature in college.",
+        "example_spanish": "Ella estudió literatura inglesa en la universidad."
+    },
+    {
+        "english": "superior",
+        "english_meaning": "higher in rank, status, or quality",
+        "spanish": "superior",
+        "spanish_meaning": "de mayor rango, estado o calidad",
+        "word_type": "adjetivo",
+        "example_english": "This product is of superior quality.",
+        "example_spanish": "Este producto es de calidad superior."
+    },
+    {
+        "english": "ensemble",
+        "english_meaning": "a group of items viewed as a whole rather than individually",
+        "spanish": "conjunto",
+        "spanish_meaning": "grupo de elementos vistos como un todo en lugar de individualmente",
+        "word_type": "sustantivo",
+        "example_english": "The ensemble performed beautifully.",
+        "example_spanish": "El conjunto actuó maravillosamente."
+    },
+    {
+        "english": "fraction",
+        "english_meaning": "a small or tiny part, amount, or proportion of something",
+        "spanish": "fracción",
+        "spanish_meaning": "una parte pequeña o diminuta, cantidad o proporción de algo",
+        "word_type": "sustantivo",
+        "example_english": "Only a fraction of the population was affected.",
+        "example_spanish": "Solo una fracción de la población fue afectada."
+    }
+]
+```

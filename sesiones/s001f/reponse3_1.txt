@@ -1,0 +1,112 @@
+{
+    "words": [
+        {
+            "palabra_nativo": "gustar",
+            "significado_nativo": "sentir agrado",
+            "palabra_objetivo": "aimer",
+            "significado_objetivo": "apprécier",
+            "descripción_objetivo": "verbe",
+            "ejemplo_nativo": "Me gusta el chocolate.",
+            "ejemplo_objetivo": "J'aime le chocolat."
+        },
+        {
+            "palabra_nativo": "conocerte",
+            "significado_nativo": "encontrarse con alguien",
+            "palabra_objetivo": "te rencontrer",
+            "significado_objetivo": "faire ta connaissance",
+            "descripción_objetivo": "verbe",
+            "ejemplo_nativo": "Es un placer conocerte.",
+            "ejemplo_objetivo": "C'est un plaisir de te rencontrer."
+        },
+        {
+            "palabra_nativo": "platicado",
+            "significado_nativo": "hablado",
+            "palabra_objetivo": "parlé",
+            "significado_objetivo": "discuté",
+            "descripción_objetivo": "verbe",
+            "ejemplo_nativo": "He platicado con ella.",
+            "ejemplo_objetivo": "J'ai parlé avec elle."
+        },
+        {
+            "palabra_nativo": "viajaré",
+            "significado_nativo": "ir a otro lugar",
+            "palabra_objetivo": "je voyagerai",
+            "significado_objetivo": "aller ailleurs",
+            "descripción_objetivo": "verbe",
+            "ejemplo_nativo": "Mañana viajaré a París.",
+            "ejemplo_objetivo": "Demain, je voyagerai à Paris."
+        },
+        {
+            "palabra_nativo": "transferiré",
+            "significado_nativo": "mover algo",
+            "palabra_objetivo": "je transférerai",
+            "significado_objetivo": "déplacer quelque chose",
+            "descripción_objetivo": "verbe",
+            "ejemplo_nativo": "Transferiré el dinero mañana.",
+            "ejemplo_objetivo": "Je transférerai l'argent demain."
+        },
+        {
+            "palabra_nativo": "cantidad",
+            "significado_nativo": "número total",
+            "palabra_objetivo": "quantité",
+            "significado_objetivo": "nombre total",
+            "descripción_objetivo": "nom",
+            "ejemplo_nativo": "La cantidad de manzanas es grande.",
+            "ejemplo_objetivo": "La quantité de pommes est grande."
+        },
+        {
+            "palabra_nativo": "correo",
+            "significado_nativo": "servicio postal",
+            "palabra_objetivo": "courrier",
+            "significado_objetivo": "service postal",
+            "descripción_objetivo": "nom",
+            "ejemplo_nativo": "Recibí un correo hoy.",
+            "ejemplo_objetivo": "J'ai reçu un courrier aujourd'hui."
+        },
+        {
+            "palabra_nativo": "recojas",
+            "significado_nativo": "tomar o recoger algo",
+            "palabra_objetivo": "tu ramasses",
+            "significado_objetivo": "prendre ou ramasser",
+            "descripción_objetivo": "verbe",
+            "ejemplo_nativo": "Por favor, recojas tus cosas.",
+            "ejemplo_objetivo": "S'il te plaît, ramasses tes affaires."
+        },
+        {
+            "palabra_nativo": "aeropuerto",
+            "significado_nativo": "terminal de aviación",
+            "palabra_objetivo": "aéroport",
+            "significado_objetivo": "terminal d'aviation",
+            "descripción_objetivo": "nom",
+            "ejemplo_nativo": "El avión sale del aeropuerto a las 6.",
+            "ejemplo_objetivo": "L'avion part de l'aéroport à 6 heures."
+        },
+        {
+            "palabra_nativo": "querida",
+            "significado_nativo": "persona amada",
+            "palabra_objetivo": "chérie",
+            "significado_objetivo": "personne aimée",
+            "descripción_objetivo": "nom/adjectif",
+            "ejemplo_nativo": "Querida, te extraño mucho.",
+            "ejemplo_objetivo": "Chérie, tu me manques beaucoup."
+        },
+        {
+            "palabra_nativo": "amante",
+            "significado_nativo": "persona que ama",
+            "palabra_objetivo": "amant",
+            "significado_objetivo": "personne qui aime",
+            "descripción_objetivo": "nom",
+            "ejemplo_nativo": "Ella es una amante de la música.",
+            "ejemplo_objetivo": "Elle est une amante de la musique."
+        },
+        {
+            "palabra_nativo": "francesa",
+            "significado_nativo": "persona de Francia",
+            "palabra_objetivo": "française",
+            "significado_objetivo": "personne de France",
+            "descripción_objetivo": "nom/adjectif",
+            "ejemplo_nativo": "Ella es francesa.",
+            "ejemplo_objetivo": "Elle est française."
+        }
+    ]
+}

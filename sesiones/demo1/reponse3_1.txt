@@ -1,0 +1,184 @@
+```json
+[
+    [
+        "dominant",
+        "having power and influence",
+        "dominante",
+        "que tiene poder e influencia",
+        "adjetivo",
+        "He has a dominant personality.",
+        "Él tiene una personalidad dominante."
+    ],
+    [
+        "transduction",
+        "conversion of one form of energy into another",
+        "transducción",
+        "conversión de una forma de energía a otra",
+        "sustantivo",
+        "Transduction occurs in the inner ear.",
+        "La transducción ocurre en el oído interno."
+    ],
+    [
+        "recurrent",
+        "happening repeatedly",
+        "recurrente",
+        "que ocurre repetidamente",
+        "adjetivo",
+        "She has a recurrent dream about flying.",
+        "Ella tiene un sueño recurrente sobre volar."
+    ],
+    [
+        "convolutional",
+        "involving convolution",
+        "convolucional",
+        "que involucra convolución",
+        "adjetivo",
+        "Convolutional neural networks are effective for image processing.",
+        "Las redes neuronales convolucionales son efectivas para el procesamiento de imágenes."
+    ],
+    [
+        "encoder",
+        "a device or algorithm that encodes information",
+        "codificador",
+        "dispositivo o algoritmo que codifica información",
+        "sustantivo",
+        "The encoder processes the data before transmission.",
+        "El codificador procesa los datos antes de la transmisión."
+    ],
+    [
+        "decoder",
+        "a device or algorithm that translates encoded data",
+        "decodificador",
+        "dispositivo o algoritmo que traduce datos codificados",
+        "sustantivo",
+        "The decoder converts the signals into audio.",
+        "El decodificador convierte las señales en audio."
+    ],
+    [
+        "mechanism",
+        "a system of parts working together",
+        "mecanismo",
+        "un sistema de partes que trabajan juntas",
+        "sustantivo",
+        "The mechanism of the clock is very complex.",
+        "El mecanismo del reloj es muy complejo."
+    ],
+    [
+        "architecture",
+        "a design or style of building",
+        "arquitectura",
+        "un diseño o estilo de construcción",
+        "sustantivo",
+        "Modern architecture often uses simple lines.",
+        "La arquitectura moderna a menudo usa líneas simples."
+    ],
+    [
+        "Transformer",
+        "a type of neural network architecture",
+        "Transformador",
+        "un tipo de arquitectura de red neuronal",
+        "sustantivo",
+        "Transformers have revolutionized natural language processing.",
+        "Los transformadores han revolucionado el procesamiento del lenguaje natural."
+    ],
+    [
+        "dispensing",
+        "distributing or providing",
+        "dispensación",
+        "distribuir o proporcionar",
+        "verbo",
+        "The machine is capable of dispensing drinks.",
+        "La máquina es capaz de dispensar bebidas."
+    ],
+    [
+        "recurrence",
+        "the act of recurring",
+        "reaparición",
+        "el acto de reaparecer",
+        "sustantivo",
+        "There is a recurrence of the symptoms.",
+        "Hay una reaparición de los síntomas."
+    ],
+    [
+        "convolutions",
+        "complex or intricate forms",
+        "convoluciones",
+        "formas complejas o intrincadas",
+        "sustantivo",
+        "The brain is full of convolutions.",
+        "El cerebro está lleno de convoluciones."
+    ],
+    [
+        "parallelizable",
+        "able to be carried out simultaneously",
+        "paralelizable",
+        "capaz de realizarse simultáneamente",
+        "adjetivo",
+        "This algorithm is highly parallelizable.",
+        "Este algoritmo es altamente paralelizable."
+    ],
+    [
+        "significantly",
+        "in an important way",
+        "significativamente",
+        "de manera importante",
+        "adverbio",
+        "Her performance improved significantly.",
+        "Su rendimiento mejoró significativamente."
+    ],
+    [
+        "achieves",
+        "successfully reaches",
+        "logra",
+        "alcanza exitosamente",
+        "verbo",
+        "She achieves her goals with determination.",
+        "Ella logra sus metas con determinación."
+    ],
+    [
+        "establishes",
+        "sets up or creates",
+        "establece",
+        "crea o establece",
+        "verbo",
+        "The company establishes new procedures.",
+        "La empresa establece nuevos procedimientos."
+    ],
+    [
+        "literature",
+        "written works, especially those with artistic value",
+        "literatura",
+        "obras escritas, especialmente con valor artístico",
+        "sustantivo",
+        "She studies classical literature.",
+        "Ella estudia literatura clásica."
+    ],
+    [
+        "superior",
+        "higher in rank",
+        "superior",
+        "de mayor rango",
+        "adjetivo",
+        "Her skills are superior to others.",
+        "Sus habilidades son superiores a las de otros."
+    ],
+    [
+        "ensemble",
+        "a group of items or people that make a complete whole",
+        "conjunto",
+        "un grupo de elementos o personas que forman un todo completo",
+        "sustantivo",
+        "The ensemble performed beautifully.",
+        "El conjunto actuó de manera hermosa."
+    ],
+    [
+        "fraction",
+        "a part of a whole",
+        "fracción",
+        "una parte de un todo",
+        "sustantivo",
+        "Only a fraction of the cake was left.",
+        "Solo quedó una fracción del pastel."
+    ]
+]
+```

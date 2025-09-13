@@ -1,0 +1,20 @@
+[
+    "gusto",
+    "conocerte",
+    "espero",
+    "platicado",
+    "verdadero",
+    "viajaré",
+    "veremos",
+    "transferiré",
+    "cantidad",
+    "pediste",
+    "correo",
+    "recojas",
+    "aeropuerto",
+    "vemos",
+    "pronto",
+    "querida",
+    "amante",
+    "francesa"
+]

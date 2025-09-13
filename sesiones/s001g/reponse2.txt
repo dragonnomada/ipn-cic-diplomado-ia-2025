@@ -1,0 +1,17 @@
+[
+    "gusto",
+    "conocerte",
+    "platicado",
+    "verdadero",
+    "viajaré",
+    "transferiré",
+    "cantidad",
+    "pediste",
+    "correo",
+    "recojas",
+    "aeropuerto",
+    "pronto",
+    "querida",
+    "amante",
+    "francesa"
+]

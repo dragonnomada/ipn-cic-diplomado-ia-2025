@@ -1,0 +1,7 @@
+[
+    "J'espère que ce dont nous avons parlé par chat est vrai.",
+    "Je vais voyager pour te voir.",
+    "Je vais transférer l'argent que tu m'as demandé.",
+    "Viens me chercher à l'aéroport.",
+    "Je t'aime, chère amante française par courrier."
+]

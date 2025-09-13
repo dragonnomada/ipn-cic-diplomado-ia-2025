@@ -1,0 +1,16 @@
+[
+    ["gusto", "placer", "plaisir", "plaisir", "sentiment agréable", "nom", "Fue un gusto conocerte.", "C'était un plaisir de te rencontrer."],
+    ["conocerte", "hacerse familiar con alguien", "te rencontrer", "faire la connaissance", "établir un contact", "verbe", "Es un placer conocerte.", "C'est un plaisir de te rencontrer."],
+    ["platicado", "hablado", "parlé", "discuté", "échanger des mots", "participe passé de verbe", "Hemos platicado mucho tiempo.", "Nous avons parlé longtemps."],
+    ["verdadero", "real", "vrai", "authentique", "ce qui est conforme à la réalité", "adjectif", "Es un verdadero amigo.", "C'est un vrai ami."],
+    ["viajaré", "ir de un lugar a otro", "je voyagerai", "aller d'un endroit à un autre", "déplacement", "verbe", "Viajaré el próximo año.", "Je voyagerai l'année prochaine."],
+    ["transferiré", "mover de un lugar a otro", "je transférerai", "déplacer d'un endroit à un autre", "changement de lieu", "verbe", "Te transferiré el dinero mañana.", "Je te transférerai l'argent demain."],
+    ["cantidad", "número", "quantité", "masse", "la mesure de quelque chose", "nom", "Hay una gran cantidad de personas.", "Il y a une grande quantité de personnes."],
+    ["pediste", "solicitar", "tu as demandé", "solliciter", "faire une requête", "verbe", "Me pediste un favor.", "Tu m'as demandé une faveur."],
+    ["correo", "servicio postal", "courrier", "service postal", "transmission de lettres et de colis", "nom", "Recibí tu correo ayer.", "J'ai reçu ton courrier hier."],
+    ["recojas", "tomar", "que tu ramasses", "prendre", "récupérer", "verbe", "Es importante que recojas el paquete.", "Il est important que tu ramasses le paquet."],
+    ["aeropuerto", "lugar de aviones", "aéroport", "lieu des avions", "station aérienne", "nom", "Nos encontramos en el aeropuerto.", "Nous nous retrouvons à l'aéroport."],
+    ["querida", "amable", "chère", "aimée", "qui est aimé", "adjectif", "Es mi querida amiga.", "C'est ma chère amie."],
+    ["amante", "persona que ama", "amant", "personne qui aime", "partenaire amoureux", "nom", "Es un amante de la música.", "Il est un amant de la musique."],
+    ["francesa", "de Francia", "française", "de France", "qui est du pays de la France", "adjectif", "Ella es francesa.", "Elle est française."]
+]

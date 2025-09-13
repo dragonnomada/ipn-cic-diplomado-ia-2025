@@ -1,0 +1,148 @@
+{  
+   "palabras": [
+      {
+         "palabra_nativo": "gusto",
+         "significado_nativo": "placer",
+         "palabra_objetivo": "goût",
+         "significado_objetivo": "plaisir",
+         "tipo_objetivo": "sustantivo",
+         "ejemplo_nativo": "Es un gusto conocerte.",
+         "ejemplo_objetivo": "C'est un plaisir de te rencontrer."
+      },
+      {
+         "palabra_nativo": "conocerte",
+         "significado_nativo": "encontrarse",
+         "palabra_objetivo": "te rencontrer",
+         "significado_objetivo": "rencontrer",
+         "tipo_objetivo": "verbo",
+         "ejemplo_nativo": "Es un gusto conocerte.",
+         "ejemplo_objetivo": "C'est un plaisir de te rencontrer."
+      },
+      {
+         "palabra_nativo": "espero",
+         "significado_nativo": "desear",
+         "palabra_objetivo": "j'espère",
+         "significado_objetivo": "souhaiter",
+         "tipo_objetivo": "verbo",
+         "ejemplo_nativo": "Espero que estés bien.",
+         "ejemplo_objetivo": "J'espère que tu vas bien."
+      },
+      {
+         "palabra_nativo": "platicado",
+         "significado_nativo": "hablado",
+         "palabra_objetivo": "parlé",
+         "significado_objetivo": "discuté",
+         "tipo_objetivo": "verbo",
+         "ejemplo_nativo": "Hemos platicado mucho.",
+         "ejemplo_objetivo": "Nous avons beaucoup parlé."
+      },
+      {
+         "palabra_nativo": "verdadero",
+         "significado_nativo": "cierto",
+         "palabra_objetivo": "vrai",
+         "significado_objetivo": "réel",
+         "tipo_objetivo": "adjetivo",
+         "ejemplo_nativo": "Es un amigo verdadero.",
+         "ejemplo_objetivo": "C'est un véritable ami."
+      },
+      {
+         "palabra_nativo": "viajaré",
+         "significado_nativo": "ir de viaje",
+         "palabra_objetivo": "je voyagerai",
+         "significado_objetivo": "aller en voyage",
+         "tipo_objetivo": "verbo",
+         "ejemplo_nativo": "Viajaré a París.",
+         "ejemplo_objetivo": "Je voyagerai à Paris."
+      },
+      {
+         "palabra_nativo": "transferiré",
+         "significado_nativo": "mover",
+         "palabra_objetivo": "je transférerai",
+         "significado_objetivo": "déplacer",
+         "tipo_objetivo": "verbo",
+         "ejemplo_nativo": "Transferiré el dinero mañana.",
+         "ejemplo_objetivo": "Je transférerai l'argent demain."
+      },
+      {
+         "palabra_nativo": "cantidad",
+         "significado_nativo": "medida",
+         "palabra_objetivo": "quantité",
+         "significado_objetivo": "mesure",
+         "tipo_objetivo": "sustantivo",
+         "ejemplo_nativo": "La cantidad de personas es grande.",
+         "ejemplo_objetivo": "La quantité de personnes est grande."
+      },
+      {
+         "palabra_nativo": "pediste",
+         "significado_nativo": "solicitaste",
+         "palabra_objetivo": "tu as demandé",
+         "significado_objetivo": "sollicité",
+         "tipo_objetivo": "verbo",
+         "ejemplo_nativo": "Me pediste ayuda.",
+         "ejemplo_objetivo": "Tu m'as demandé de l'aide."
+      },
+      {
+         "palabra_nativo": "correo",
+         "significado_nativo": "mensajería",
+         "palabra_objetivo": "courrier",
+         "significado_objetivo": "messagerie",
+         "tipo_objetivo": "sustantivo",
+         "ejemplo_nativo": "Revisé mi correo.",
+         "ejemplo_objetivo": "J'ai vérifié mon courrier."
+      },
+      {
+         "palabra_nativo": "recojas",
+         "significado_nativo": "levantes",
+         "palabra_objetivo": "ramasses",
+         "significado_objetivo": "prennes",
+         "tipo_objetivo": "verbo",
+         "ejemplo_nativo": "Por favor, recojas eso.",
+         "ejemplo_objetivo": "S'il te plaît, ramasses ça."
+      },
+      {
+         "palabra_nativo": "aeropuerto",
+         "significado_nativo": "terminal aéreo",
+         "palabra_objetivo": "aéroport",
+         "significado_objetivo": "terminal aérien",
+         "tipo_objetivo": "sustantivo",
+         "ejemplo_nativo": "Llegamos al aeropuerto.",
+         "ejemplo_objetivo": "Nous sommes arrivés à l'aéroport."
+      },
+      {
+         "palabra_nativo": "pronto",
+         "significado_nativo": "rápido",
+         "palabra_objetivo": "bientôt",
+         "significado_objetivo": "rapidement",
+         "tipo_objetivo": "adverbio",
+         "ejemplo_nativo": "Te veré pronto.",
+         "ejemplo_objetivo": "Je te verrai bientôt."
+      },
+      {
+         "palabra_nativo": "querida",
+         "significado_nativo": "amada",
+         "palabra_objetivo": "chérie",
+         "significado_objetivo": "aimée",
+         "tipo_objetivo": "adjetivo",
+         "ejemplo_nativo": "Mi querida amiga llegó.",
+         "ejemplo_objetivo": "Ma chère amie est arrivée."
+      },
+      {
+         "palabra_nativo": "amante",
+         "significado_nativo": "persona amorosa",
+         "palabra_objetivo": "amant",
+         "significado_objetivo": "personne amoureuse",
+         "tipo_objetivo": "sustantivo",
+         "ejemplo_nativo": "Es un amante de la música.",
+         "ejemplo_objetivo": "Il est un amant de la musique."
+      },
+      {
+         "palabra_nativo": "francesa",
+         "significado_nativo": "de Francia",
+         "palabra_objetivo": "française",
+         "significado_objetivo": "de France",
+         "tipo_objetivo": "adjetivo",
+         "ejemplo_nativo": "Ella es francesa.",
+         "ejemplo_objetivo": "Elle est française."
+      }
+   ]
+}

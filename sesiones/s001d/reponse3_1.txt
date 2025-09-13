@@ -1,0 +1,94 @@
+{
+    "palabras": [
+        {
+            "palabra_nativo": "verdadero",
+            "significado_nativo": "auténtico, conforme a la verdad",
+            "palabra_objetivo": "vrai",
+            "significado_objetivo": "authentique, conforme à la vérité",
+            "descripción_objetivo": "adjectif",
+            "ejemplo_nativo": "Es un hecho verdadero.",
+            "ejemplo_objetivo": "C'est un fait vrai."
+        },
+        {
+            "palabra_nativo": "viajaré",
+            "significado_nativo": "me desplazaré de un lugar a otro",
+            "palabra_objetivo": "je voyagerai",
+            "significado_objetivo": "je me déplacerai d'un endroit à un autre",
+            "descripción_objetivo": "verbe",
+            "ejemplo_nativo": "Mañana viajaré a París.",
+            "ejemplo_objetivo": "Demain, je voyagerai à Paris."
+        },
+        {
+            "palabra_nativo": "transferiré",
+            "significado_nativo": "trasladaré de un lugar a otro",
+            "palabra_objetivo": "je transférerai",
+            "significado_objetivo": "je déplacerai d'un endroit à un autre",
+            "descripción_objetivo": "verbe",
+            "ejemplo_nativo": "Transferiré el dinero mañana.",
+            "ejemplo_objetivo": "Je transférerai l'argent demain."
+        },
+        {
+            "palabra_nativo": "cantidad",
+            "significado_nativo": "cuantía, porción de algo",
+            "palabra_objetivo": "quantité",
+            "significado_objetivo": "quantum, portion de quelque chose",
+            "descripción_objetivo": "nom féminin",
+            "ejemplo_nativo": "Necesitamos una cantidad mayor de agua.",
+            "ejemplo_objetivo": "Nous avons besoin d'une plus grande quantité d'eau."
+        },
+        {
+            "palabra_nativo": "correo",
+            "significado_nativo": "sistema de envíos postales",
+            "palabra_objetivo": "courrier",
+            "significado_objetivo": "système postal",
+            "descripción_objetivo": "nom masculin",
+            "ejemplo_nativo": "Recibí el correo ayer.",
+            "ejemplo_objetivo": "J'ai reçu le courrier hier."
+        },
+        {
+            "palabra_nativo": "recojas",
+            "significado_nativo": "levantes, reúnas algo",
+            "palabra_objetivo": "tu ramasses",
+            "significado_objetivo": "tu lèves, tu rassembles quelque chose",
+            "descripción_objetivo": "verbe",
+            "ejemplo_nativo": "Es importante que recojas tu habitación.",
+            "ejemplo_objetivo": "Il est important que tu ramasses ta chambre."
+        },
+        {
+            "palabra_nativo": "aeropuerto",
+            "significado_nativo": "terminal de aviación",
+            "palabra_objetivo": "aéroport",
+            "significado_objetivo": "terminal aérien",
+            "descripción_objetivo": "nom masculin",
+            "ejemplo_nativo": "El avión aterrizó en el aeropuerto.",
+            "ejemplo_objetivo": "L'avion a atterri à l'aéroport."
+        },
+        {
+            "palabra_nativo": "querida",
+            "significado_nativo": "persona amada o estimada",
+            "palabra_objetivo": "chère",
+            "significado_objetivo": "personne aimée ou estimée",
+            "descripción_objetivo": "adjectif",
+            "ejemplo_nativo": "Mi querida amiga vive en Francia.",
+            "ejemplo_objetivo": "Ma chère amie vit en France."
+        },
+        {
+            "palabra_nativo": "amante",
+            "significado_nativo": "persona que ama o tiene relaciones afectivas",
+            "palabra_objetivo": "amant",
+            "significado_objetivo": "personne qui aime ou a des relations affectives",
+            "descripción_objetivo": "nom masculin/féminin",
+            "ejemplo_nativo": "Ella conoció a su amante en Barcelona.",
+            "ejemplo_objetivo": "Elle a rencontré son amant à Barcelone."
+        },
+        {
+            "palabra_nativo": "francesa",
+            "significado_nativo": "mujer de Francia",
+            "palabra_objetivo": "française",
+            "significado_objetivo": "femme de France",
+            "descripción_objetivo": "nom féminin",
+            "ejemplo_nativo": "María es una francesa muy simpática.",
+            "ejemplo_objetivo": "Marie est une Française très sympathique."
+        }
+    ]
+}

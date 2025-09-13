@@ -1,0 +1,83 @@
+[
+    {
+        "palabra_spanish": "gusto",
+        "significado_spanish": "placer",
+        "palabra_french": "plaisir",
+        "significado_french": "joie",
+        "descripción_french": "nom masculin",
+        "ejemplo_spanish": "Es un gusto conocerte.",
+        "ejemplo_french": "C'est un plaisir de te rencontrer."
+    },
+    {
+        "palabra_spanish": "conocerte",
+        "significado_spanish": "encontrarte",
+        "palabra_french": "te rencontrer",
+        "significado_french": "faire ta connaissance",
+        "descripción_french": "verbe",
+        "ejemplo_spanish": "Me alegra conocerte.",
+        "ejemplo_french": "Je suis heureux de te rencontrer."
+    },
+    {
+        "palabra_spanish": "platicado",
+        "significado_spanish": "hablado",
+        "palabra_french": "parlé",
+        "significado_french": "discuté",
+        "descripción_french": "verbe",
+        "ejemplo_spanish": "Hemos platicado mucho.",
+        "ejemplo_french": "Nous avons beaucoup parlé."
+    },
+    {
+        "palabra_spanish": "transferiré",
+        "significado_spanish": "pasaré",
+        "palabra_french": "transférerai",
+        "significado_french": "transférer",
+        "descripción_french": "verbe",
+        "ejemplo_spanish": "Te transferiré el dinero mañana.",
+        "ejemplo_french": "Je transférerai l'argent demain."
+    },
+    {
+        "palabra_spanish": "cantidad",
+        "significado_spanish": "número",
+        "palabra_french": "quantité",
+        "significado_french": "montant",
+        "descripción_french": "nom féminin",
+        "ejemplo_spanish": "Dame la cantidad exacta.",
+        "ejemplo_french": "Donne-moi la quantité exacte."
+    },
+    {
+        "palabra_spanish": "aeropuerto",
+        "significado_spanish": "terminal aérea",
+        "palabra_french": "aéroport",
+        "significado_french": "terminal",
+        "descripción_french": "nom masculin",
+        "ejemplo_spanish": "El avión aterriza en el aeropuerto.",
+        "ejemplo_french": "L'avion atterrit à l'aéroport."
+    },
+    {
+        "palabra_spanish": "querida",
+        "significado_spanish": "amada",
+        "palabra_french": "chérie",
+        "significado_french": "aimée",
+        "descripción_french": "adjectif",
+        "ejemplo_spanish": "Mi querida amiga.",
+        "ejemplo_french": "Ma chère amie."
+    },
+    {
+        "palabra_spanish": "amante",
+        "significado_spanish": "enamorado",
+        "palabra_french": "amant",
+        "significado_french": "amoureux",
+        "descripción_french": "nom masculin",
+        "ejemplo_spanish": "Es un amante apasionado.",
+        "ejemplo_french": "C'est un amant passionné."
+    },
+    {
+        "palabra_spanish": "francesa",
+        "significado_spanish": "originaria de Francia",
+        "palabra_french": "française",
+        "significado_french": "originaire de France",
+        "descripción_french": "adjectif",
+        "ejemplo_spanish": "Es una receta francesa.",
+        "ejemplo_french": "C'est une recette française."
+    }
+]

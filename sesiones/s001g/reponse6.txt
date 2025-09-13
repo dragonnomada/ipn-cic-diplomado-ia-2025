@@ -1,0 +1,7 @@
+[
+    "Exprime son plaisir de se rencontrer et espère que ce qui a été dit est vrai.",
+    "Mentionne des projets de voyage pour se rencontrer.",
+    "Prévoyez de transférer de l'argent pour être récupéré à l'aéroport.",
+    "Espère une réunion prochaine.",
+    "Exprime son amour pour sa maîtresse française par courrier."
+]

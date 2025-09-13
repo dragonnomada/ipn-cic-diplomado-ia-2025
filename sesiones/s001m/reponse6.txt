@@ -1,0 +1,7 @@
+[
+  "Le locuteur est enthousiaste à l'idée de rencontrer la personne.",
+  "Il prévoit de voyager pour la rencontrer.",
+  "Il transférera de l'argent pour être pris en charge à l'aéroport.",
+  "Il se réfère à la personne comme son amant.",
+  "La communication a été principalement par chat et e-mail."
+]

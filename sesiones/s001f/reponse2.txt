@@ -1,0 +1,14 @@
+[
+    "gustar",
+    "conocerte",
+    "platicado",
+    "viajaré",
+    "transferiré",
+    "cantidad",
+    "correo",
+    "recojas",
+    "aeropuerto",
+    "querida",
+    "amante",
+    "francesa"
+]

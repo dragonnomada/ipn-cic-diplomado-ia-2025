@@ -1,0 +1,7 @@
+[
+    "Attente de véracité dans la communication préalable",
+    "Plan de voyage pour une rencontre personnelle",
+    "Transfert d'argent pour assurer la récupération",
+    "Rencontre prévue à l'aéroport",
+    "Expression d'amour envers la maîtresse française"
+]

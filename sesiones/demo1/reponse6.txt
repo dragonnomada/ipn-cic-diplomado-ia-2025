@@ -1,0 +1,7 @@
+[
+    "El modelo Transformer utiliza solo mecanismos de atención, eliminando recurrencias y convoluciones.",
+    "Los modelos Transformer superan a los modelos tradicionales en calidad y eficiencia de entrenamiento.",
+    "Transformer alcanzó 28.4 BLEU en la traducción de inglés a alemán en WMT 2014, superando los mejores anteriores.",
+    "En la traducción de inglés a francés en WMT 2014, Transformer estableció un nuevo récord BLEU con una puntuación de 41.0.",
+    "Entrenar Transformers es más paralelizable y requiere menos tiempo en comparación con otros modelos."
+]

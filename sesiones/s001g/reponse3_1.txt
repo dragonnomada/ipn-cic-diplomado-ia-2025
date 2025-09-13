@@ -1,0 +1,139 @@
+{
+    "palabras": [
+        {
+            "palabra_spanish": "gusto",
+            "significado_spanish": "placer",
+            "palabra_french": "plaisir",
+            "significado_french": "satisfaction",
+            "descripción_french": "nom masculin",
+            "ejemplo_spanish": "Es un gusto conocerte.",
+            "ejemplo_french": "C'est un plaisir de te rencontrer."
+        },
+        {
+            "palabra_spanish": "conocerte",
+            "significado_spanish": "encontrar a alguien",
+            "palabra_french": "te rencontrer",
+            "significado_french": "faire la connaissance",
+            "descripción_french": "expression",
+            "ejemplo_spanish": "Es un placer conocerte.",
+            "ejemplo_french": "C'est un plaisir de te rencontrer."
+        },
+        {
+            "palabra_spanish": "platicado",
+            "significado_spanish": "conversado",
+            "palabra_french": "discuté",
+            "significado_french": "parlé",
+            "descripción_french": "verbe (passé composé)",
+            "ejemplo_spanish": "He platicado con él.",
+            "ejemplo_french": "J'ai discuté avec lui."
+        },
+        {
+            "palabra_spanish": "verdadero",
+            "significado_spanish": "real",
+            "palabra_french": "vrai",
+            "significado_french": "authentique",
+            "descripción_french": "adjectif",
+            "ejemplo_spanish": "Es un amigo verdadero.",
+            "ejemplo_french": "C'est un vrai ami."
+        },
+        {
+            "palabra_spanish": "viajaré",
+            "significado_spanish": "me desplazaré",
+            "palabra_french": "je voyagerai",
+            "significado_french": "je me déplacerai",
+            "descripción_french": "verbe (futur simple)",
+            "ejemplo_spanish": "Mañana viajaré a París.",
+            "ejemplo_french": "Demain, je voyagerai à Paris."
+        },
+        {
+            "palabra_spanish": "transferiré",
+            "significado_spanish": "traspasaré",
+            "palabra_french": "je transférerai",
+            "significado_french": "je ferai un transfert",
+            "descripción_french": "verbe (futur simple)",
+            "ejemplo_spanish": "Mañana transferiré el dinero.",
+            "ejemplo_french": "Demain, je transférerai l'argent."
+        },
+        {
+            "palabra_spanish": "cantidad",
+            "significado_spanish": "número",
+            "palabra_french": "quantité",
+            "significado_french": "montant",
+            "descripción_french": "nom féminin",
+            "ejemplo_spanish": "Necesito una cantidad mayor.",
+            "ejemplo_french": "J'ai besoin d'une plus grande quantité."
+        },
+        {
+            "palabra_spanish": "pediste",
+            "significado_spanish": "solicitaste",
+            "palabra_french": "as demandé",
+            "significado_french": "a fait une demande",
+            "descripción_french": "verbe (passé composé)",
+            "ejemplo_spanish": "Le pediste ayuda a Juan.",
+            "ejemplo_french": "Tu as demandé de l'aide à Juan."
+        },
+        {
+            "palabra_spanish": "correo",
+            "significado_spanish": "mensajería",
+            "palabra_french": "courrier",
+            "significado_french": "poste",
+            "descripción_french": "nom masculin",
+            "ejemplo_spanish": "Espero recibir el correo pronto.",
+            "ejemplo_french": "J'espère recevoir le courrier bientôt."
+        },
+        {
+            "palabra_spanish": "recojas",
+            "significado_spanish": "colectes",
+            "palabra_french": "ramasses",
+            "significado_french": "collectes",
+            "descripción_french": "verbe (subjonctif présent)",
+            "ejemplo_spanish": "Quiero que recojas el paquete.",
+            "ejemplo_french": "Je veux que tu ramasses le colis."
+        },
+        {
+            "palabra_spanish": "aeropuerto",
+            "significado_spanish": "terminal aérea",
+            "palabra_french": "aéroport",
+            "significado_french": "terminal aérienne",
+            "descripción_french": "nom masculin",
+            "ejemplo_spanish": "Llegaré al aeropuerto a las cuatro.",
+            "ejemplo_french": "J'arriverai à l'aéroport à quatre heures."
+        },
+        {
+            "palabra_spanish": "pronto",
+            "significado_spanish": "en breve",
+            "palabra_french": "bientôt",
+            "significado_french": "prochainement",
+            "descripción_french": "adverbe",
+            "ejemplo_spanish": "Te veré pronto.",
+            "ejemplo_french": "Je te verrai bientôt."
+        },
+        {
+            "palabra_spanish": "querida",
+            "significado_spanish": "amada",
+            "palabra_french": "chère",
+            "significado_french": "aimée",
+            "descripción_french": "adjectif",
+            "ejemplo_spanish": "Mi querida hermana vendrá.",
+            "ejemplo_french": "Ma chère sœur viendra."
+        },
+        {
+            "palabra_spanish": "amante",
+            "significado_spanish": "adorador",
+            "palabra_french": "amoureux",
+            "significado_french": "adorateur",
+            "descripción_french": "nom masculin/féminin",
+            "ejemplo_spanish": "Es un gran amante de la música.",
+            "ejemplo_french": "Il est un grand amoureux de la musique."
+        },
+        {
+            "palabra_spanish": "francesa",
+            "significado_spanish": "relativo a Francia",
+            "palabra_french": "française",
+            "significado_french": "lié à la France",
+            "descripción_french": "adjectif",
+            "ejemplo_spanish": "La cultura francesa es fascinante.",
+            "ejemplo_french": "La culture française est fascinante."
+        }
+    ]
+}

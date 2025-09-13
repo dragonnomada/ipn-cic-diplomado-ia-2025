@@ -1,0 +1,22 @@
+[
+    "dominant",
+    "transduction",
+    "recurrent",
+    "convolutional",
+    "encoder",
+    "decoder",
+    "mechanism",
+    "architecture",
+    "Transformer",
+    "dispensing",
+    "recurrence",
+    "convolutions",
+    "parallelizable",
+    "significantly",
+    "achieves",
+    "establishes",
+    "literature",
+    "superior",
+    "ensemble",
+    "fraction"
+]

@@ -1,0 +1,139 @@
+{
+    "palabras": [
+        {
+            "palabra_spanish": "gusto",
+            "significado_spanish": "placer",
+            "palabra_french": "plaisir",
+            "significado_french": "joie",
+            "descripción_french": "nom masculin",
+            "ejemplo_spanish": "Es un gusto conocerte.",
+            "ejemplo_french": "C'est un plaisir de te rencontrer."
+        },
+        {
+            "palabra_spanish": "conocerte",
+            "significado_spanish": "ver a alguien por primera vez",
+            "palabra_french": "te rencontrer",
+            "significado_french": "voir quelqu'un pour la première fois",
+            "descripción_french": "verbe",
+            "ejemplo_spanish": "Es un placer conocerte.",
+            "ejemplo_french": "C'est un plaisir de te rencontrer."
+        },
+        {
+            "palabra_spanish": "espero",
+            "significado_spanish": "tener esperanza",
+            "palabra_french": "j'espère",
+            "significado_french": "avoir espoir",
+            "descripción_french": "verbe",
+            "ejemplo_spanish": "Espero verte pronto.",
+            "ejemplo_french": "J'espère te voir bientôt."
+        },
+        {
+            "palabra_spanish": "platicado",
+            "significado_spanish": "conversado",
+            "palabra_french": "parlé",
+            "significado_french": "conversé",
+            "descripción_french": "participe passé de 'parler'",
+            "ejemplo_spanish": "Hemos platicado mucho.",
+            "ejemplo_french": "Nous avons beaucoup parlé."
+        },
+        {
+            "palabra_spanish": "verdadero",
+            "significado_spanish": "real",
+            "palabra_french": "vrai",
+            "significado_french": "réel",
+            "descripción_french": "adjectif",
+            "ejemplo_spanish": "Es un verdadero amigo.",
+            "ejemplo_french": "C'est un vrai ami."
+        },
+        {
+            "palabra_spanish": "viajaré",
+            "significado_spanish": "ir de viaje",
+            "palabra_french": "je voyagerai",
+            "significado_french": "partir en voyage",
+            "descripción_french": "verbe",
+            "ejemplo_spanish": "Viajaré a Francia este verano.",
+            "ejemplo_french": "Je voyagerai en France cet été."
+        },
+        {
+            "palabra_spanish": "transferiré",
+            "significado_spanish": "mover de un lugar a otro",
+            "palabra_french": "je transférerai",
+            "significado_french": "déplacer d'un endroit à un autre",
+            "descripción_french": "verbe",
+            "ejemplo_spanish": "Transferiré el dinero mañana.",
+            "ejemplo_french": "Je transférerai l'argent demain."
+        },
+        {
+            "palabra_spanish": "cantidad",
+            "significado_spanish": "número",
+            "palabra_french": "quantité",
+            "significado_french": "nombre",
+            "descripción_french": "nom féminin",
+            "ejemplo_spanish": "La cantidad de gente era impresionante.",
+            "ejemplo_french": "La quantité de personnes était impressionnante."
+        },
+        {
+            "palabra_spanish": "pediste",
+            "significado_spanish": "solicitaste",
+            "palabra_french": "tu as demandé",
+            "significado_french": "tu as sollicité",
+            "descripción_french": "verbe",
+            "ejemplo_spanish": "Pediste una pizza.",
+            "ejemplo_french": "Tu as demandé une pizza."
+        },
+        {
+            "palabra_spanish": "correo",
+            "significado_spanish": "correo electrónico",
+            "palabra_french": "courriel",
+            "significado_french": "email",
+            "descripción_french": "nom masculin",
+            "ejemplo_spanish": "Revisa tu correo.",
+            "ejemplo_french": "Vérifie ton courriel."
+        },
+        {
+            "palabra_spanish": "recojas",
+            "significado_spanish": "levantar algo",
+            "palabra_french": "tu ramasses",
+            "significado_french": "ramasser quelque chose",
+            "descripción_french": "verbe",
+            "ejemplo_spanish": "Recojas tus cosas.",
+            "ejemplo_french": "Tu ramasses tes affaires."
+        },
+        {
+            "palabra_spanish": "aeropuerto",
+            "significado_spanish": "terminal de vuelos",
+            "palabra_french": "aéroport",
+            "significado_french": "terminal des vols",
+            "descripción_french": "nom masculin",
+            "ejemplo_spanish": "Llegamos al aeropuerto.",
+            "ejemplo_french": "Nous sommes arrivés à l'aéroport."
+        },
+        {
+            "palabra_spanish": "querida",
+            "significado_spanish": "amado",
+            "palabra_french": "chère",
+            "significado_french": "aimé",
+            "descripción_french": "adjectif",
+            "ejemplo_spanish": "Mi querida amiga.",
+            "ejemplo_french": "Ma chère amie."
+        },
+        {
+            "palabra_spanish": "amante",
+            "significado_spanish": "persona enamorada",
+            "palabra_french": "amant",
+            "significado_french": "personne amoureuse",
+            "descripción_french": "nom masculin",
+            "ejemplo_spanish": "Es un amante de la música.",
+            "ejemplo_french": "C'est un amant de la musique."
+        },
+        {
+            "palabra_spanish": "francesa",
+            "significado_spanish": "de Francia",
+            "palabra_french": "française",
+            "significado_french": "de France",
+            "descripción_french": "adjectif",
+            "ejemplo_spanish": "Ella es francesa.",
+            "ejemplo_french": "Elle est française."
+        }
+    ]
+}
